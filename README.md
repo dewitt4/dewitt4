@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there GitHubers 👋
+
+🔭 I’m currently working on coding Python scripts for DevOps 
+🌱 I’m currently learning DevOps / Kubernetes 
+😄 My top skills: Public Cloud Architecting / Infrastructure as Code 
+⚡ Fun fact: I know how much I don't know and it's a lot ...
+
 
 <!--
 **dewitt4/dewitt4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
