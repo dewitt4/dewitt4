@@ -1,9 +1,9 @@
 ### Hi there GitHubers 👋
 
-- 🔭 I’m currently working on coding Python scripts for DevOps 
-- 🌱 I’m currently learning DevOps / Kubernetes 
-- 😄 My top skills: Public Cloud Architecting / Infrastructure as Code 
-- ⚡ Fun fact: I know how much I don't know and it's a lot ...
+- 🔭 I’m currently working on coding Python scripts for DevSecOps 
+- 🌱 I’m currently learning DevSecOps for Kubernetes 
+- 😄 My top skills: Cloud Stuff 
+- ⚡ Fun fact: I know how much I don't know  ... 
 
 
 <!--
