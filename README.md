@@ -1,9 +1,9 @@
 ### Hi there GitHubers 👋
 
-- 🔭 I’m currently working on coding Python scripts for DevSecOps 
-- 🌱 I’m currently learning DevSecOps for Kubernetes 
-- 😄 My top skills: Cloud Stuff 
-- ⚡ Fun fact: I know how much I don't know  ... 
+- 🔭 I’m currently working on Web3 applications
+- 🌱 I’m currently learning Data Engineering | Blockchain
+- 😄 My top skills: being adaptable 
+- ⚡ Fun fact: By the time the future gets here it will be the present 
 
 
 <!--
