@@ -1,10 +1,10 @@
 ### Hi there GitHubers 👋
 
-- 🔭 I’m currently working on Web3 applications
-- 🌱 I’m currently learning Data Engineering | Blockchain
+- 🔭 Currently working on Web3 applications
+- 🌱 I’m currently OpenAI integrations 
 - 😄 My top skills: being adaptable 
 - ⚡ Fun fact: By the time the future gets here it will be the present 
-- ⚡ Fun fact: I've been so busy at my "day job" that I haven't been on GitHub as much as I would like. That changes....Now! 8/11/22
+- ⚡ Fun fact: I've been so busy at my "day job" that I haven't been on GitHub as much as I would like. That changes....Now! 5/22/2023
 
 
 <!--
