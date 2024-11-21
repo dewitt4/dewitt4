@@ -1,7 +1,7 @@
 ### Hi there GitHubers 👋
 
 - 🔭 My attention has been suddenly and dramitically shifted onto AI projects
-- 🌱 I’m currently pair-programming with Anthropic
+- 🌱 I’m focused on securing AI models from attack
 - 😄 My top skills: being adaptable 
 - ⚡ Fun fact: By the time the future gets here it will be the present 
 
