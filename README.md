@@ -1,7 +1,7 @@
 ### Hi there GitHubers 👋
 
-- 🔭 My attention has been suddenly and dramitically shifted onto AI projects
-- 🌱 I’m focused on securing AI models from attack
+- 🔭 My attention is on optimizing AI for edge devices
+- 🌱 I’m focused on optimizing LLMs and Securing them from Attack
 - 😄 My top skills: being adaptable, scrapy, determined
 - ⚡ Fun fact: By the time the future gets here it will be the present 
 
