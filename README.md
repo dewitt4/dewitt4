@@ -1,6 +1,6 @@
 ### Hi there GitHubers 👋
 
-- 🔭 My attention is on optimizing AI for edge devices
+- 🔭 My attention is now 100% focused on AgentaFlow SRO https://github.com/dewitt4/agentaflow-sro-community
 - 🌱 I’m focused on optimizing LLMs and Securing them from Attack
 - 😄 My top skills: being adaptable, scrapy, determined
 - ⚡ Fun fact: By the time the future gets here it will be the present 
